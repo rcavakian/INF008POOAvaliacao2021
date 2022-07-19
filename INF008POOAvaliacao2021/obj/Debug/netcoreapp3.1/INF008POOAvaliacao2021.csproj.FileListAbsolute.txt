@@ -1,0 +1,14 @@
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\bin\Debug\netcoreapp3.1\INF008POOAvaliacao2021.exe
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\bin\Debug\netcoreapp3.1\INF008POOAvaliacao2021.deps.json
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\bin\Debug\netcoreapp3.1\INF008POOAvaliacao2021.runtimeconfig.json
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\bin\Debug\netcoreapp3.1\INF008POOAvaliacao2021.runtimeconfig.dev.json
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\bin\Debug\netcoreapp3.1\INF008POOAvaliacao2021.dll
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\bin\Debug\netcoreapp3.1\INF008POOAvaliacao2021.pdb
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\obj\Debug\netcoreapp3.1\INF008POOAvaliacao2021.csproj.AssemblyReference.cache
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\obj\Debug\netcoreapp3.1\INF008POOAvaliacao2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\obj\Debug\netcoreapp3.1\INF008POOAvaliacao2021.AssemblyInfoInputs.cache
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\obj\Debug\netcoreapp3.1\INF008POOAvaliacao2021.AssemblyInfo.cs
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\obj\Debug\netcoreapp3.1\INF008POOAvaliacao2021.csproj.CoreCompileInputs.cache
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\obj\Debug\netcoreapp3.1\INF008POOAvaliacao2021.dll
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\obj\Debug\netcoreapp3.1\INF008POOAvaliacao2021.pdb
+C:\Users\ravakian\source\repos\INF008POOAvaliacao2021\INF008POOAvaliacao2021\obj\Debug\netcoreapp3.1\INF008POOAvaliacao2021.genruntimeconfig.cache
